@@ -39,6 +39,12 @@ body {
     border-radius: 5px;
 }
 
+.small-btn {
+    border: 15px solid;
+    background-color: #000;
+    border-radius: 5px;
+}
+
 .time h2 {
     font-weight: bold;
     margin: 0 0 5px;
@@ -69,12 +75,12 @@ body {
         font-weight: bold;
         margin: 0 0 5px;
         line-height: 1;
-        font-size: 48px;
+        font-size: 36px;
     
     }
     
     .time small {
-        font-size: 28px;
+        font-size: 20px;
         line-height: 1.5;
         color: #fff;
         text-shadow: 1px 1px 1px #000, 
